@@ -1,0 +1,140 @@
+product_id,product_name,category,sub_category,mrp,cost_price
+P5001,Tata Fresh Fruits Pack 1,Fruits & Vegetables,Fresh Fruits,150,122.54
+P5002,Amul Fresh Fruits Pack 2,Fruits & Vegetables,Fresh Fruits,182,133.75
+P5003,Mother Dairy Fresh Fruits Pack 3,Fruits & Vegetables,Fresh Fruits,123,93.03
+P5004,Himalaya Fresh Fruits Pack 4,Fruits & Vegetables,Fresh Fruits,187,145.11
+P5005,Himalaya Fresh Fruits Pack 5,Fruits & Vegetables,Fresh Fruits,78,60.52
+P5006,Fortune Fresh Fruits Pack 6,Fruits & Vegetables,Fresh Fruits,245,189.05
+P5007,Tata Fresh Vegetables Pack 1,Fruits & Vegetables,Fresh Vegetables,178,137.84
+P5008,Parle Fresh Vegetables Pack 2,Fruits & Vegetables,Fresh Vegetables,226,183.14
+P5009,Vim Fresh Vegetables Pack 3,Fruits & Vegetables,Fresh Vegetables,111,90.09
+P5010,Britannia Fresh Vegetables Pack 4,Fruits & Vegetables,Fresh Vegetables,116,91.8
+P5011,Amul Fresh Vegetables Pack 5,Fruits & Vegetables,Fresh Vegetables,82,62.15
+P5012,Parle Fresh Vegetables Pack 6,Fruits & Vegetables,Fresh Vegetables,139,106.01
+P5013,Dabur Fresh Vegetables Pack 7,Fruits & Vegetables,Fresh Vegetables,68,52.93
+P5014,Himalaya Fresh Vegetables Pack 8,Fruits & Vegetables,Fresh Vegetables,152,113.7
+P5015,Amul Herbs Pack 1,Fruits & Vegetables,Herbs,218,178.47
+P5016,Dabur Herbs Pack 2,Fruits & Vegetables,Herbs,153,124.14
+P5017,Vim Herbs Pack 3,Fruits & Vegetables,Herbs,193,149.9
+P5018,Himalaya Herbs Pack 4,Fruits & Vegetables,Herbs,83,64.2
+P5019,Pampers Herbs Pack 5,Fruits & Vegetables,Herbs,85,64.61
+P5020,Mother Dairy Herbs Pack 6,Fruits & Vegetables,Herbs,102,82.05
+P5021,Amul Milk Pack 1,Dairy & Bakery,Milk,42,34.31
+P5022,Aashirvaad Milk Pack 2,Dairy & Bakery,Milk,36,29
+P5023,Vim Milk Pack 3,Dairy & Bakery,Milk,132,112.44
+P5024,ITC Milk Pack 4,Dairy & Bakery,Milk,242,207.89
+P5025,Mother Dairy Milk Pack 5,Dairy & Bakery,Milk,66,54.34
+P5026,Fortune Milk Pack 6,Dairy & Bakery,Milk,31,26.41
+P5027,Dabur Curd & Paneer Pack 1,Dairy & Bakery,Curd & Paneer,189,157.57
+P5028,ITC Curd & Paneer Pack 2,Dairy & Bakery,Curd & Paneer,136,107.4
+P5029,Tata Curd & Paneer Pack 3,Dairy & Bakery,Curd & Paneer,263,212.67
+P5030,Parle Curd & Paneer Pack 4,Dairy & Bakery,Curd & Paneer,317,259.35
+P5031,Surf Excel Curd & Paneer Pack 5,Dairy & Bakery,Curd & Paneer,170,142.37
+P5032,Tata Curd & Paneer Pack 6,Dairy & Bakery,Curd & Paneer,222,175.06
+P5033,Patanjali Curd & Paneer Pack 7,Dairy & Bakery,Curd & Paneer,105,83.33
+P5034,Patanjali Curd & Paneer Pack 8,Dairy & Bakery,Curd & Paneer,41,31.69
+P5035,Mother Dairy Bread & Eggs Pack 1,Dairy & Bakery,Bread & Eggs,144,123.68
+P5036,Britannia Bread & Eggs Pack 2,Dairy & Bakery,Bread & Eggs,103,82.78
+P5037,Pampers Bread & Eggs Pack 3,Dairy & Bakery,Bread & Eggs,306,237.81
+P5038,Tata Bread & Eggs Pack 4,Dairy & Bakery,Bread & Eggs,255,214.57
+P5039,Surf Excel Bread & Eggs Pack 5,Dairy & Bakery,Bread & Eggs,291,226.9
+P5040,Parle Bread & Eggs Pack 6,Dairy & Bakery,Bread & Eggs,311,240.6
+P5041,Nestle Bread & Eggs Pack 7,Dairy & Bakery,Bread & Eggs,125,97.39
+P5042,Patanjali Chips & Namkeen Pack 1,Snacks & Beverages,Chips & Namkeen,236,167.13
+P5043,Dabur Chips & Namkeen Pack 2,Snacks & Beverages,Chips & Namkeen,242,162.61
+P5044,Parle Chips & Namkeen Pack 3,Snacks & Beverages,Chips & Namkeen,49,35.98
+P5045,Britannia Chips & Namkeen Pack 4,Snacks & Beverages,Chips & Namkeen,226,154.84
+P5046,Himalaya Chips & Namkeen Pack 5,Snacks & Beverages,Chips & Namkeen,313,230.19
+P5047,Nestle Chips & Namkeen Pack 6,Snacks & Beverages,Chips & Namkeen,174,115.93
+P5048,Parle Chips & Namkeen Pack 7,Snacks & Beverages,Chips & Namkeen,283,207.79
+P5049,Himalaya Chips & Namkeen Pack 8,Snacks & Beverages,Chips & Namkeen,393,285.45
+P5050,Tata Soft Drinks Pack 1,Snacks & Beverages,Soft Drinks,91,63.71
+P5051,Surf Excel Soft Drinks Pack 2,Snacks & Beverages,Soft Drinks,60,43.33
+P5052,Mother Dairy Soft Drinks Pack 3,Snacks & Beverages,Soft Drinks,138,94.41
+P5053,Pampers Soft Drinks Pack 4,Snacks & Beverages,Soft Drinks,379,262.81
+P5054,Patanjali Soft Drinks Pack 5,Snacks & Beverages,Soft Drinks,320,227.69
+P5055,Aashirvaad Soft Drinks Pack 6,Snacks & Beverages,Soft Drinks,140,93.58
+P5056,Patanjali Soft Drinks Pack 7,Snacks & Beverages,Soft Drinks,323,233.22
+P5057,Patanjali Biscuits Pack 1,Snacks & Beverages,Biscuits,106,74.12
+P5058,Dabur Biscuits Pack 2,Snacks & Beverages,Biscuits,338,231.65
+P5059,Mother Dairy Biscuits Pack 3,Snacks & Beverages,Biscuits,300,217.19
+P5060,Parle Biscuits Pack 4,Snacks & Beverages,Biscuits,375,259.39
+P5061,Aashirvaad Biscuits Pack 5,Snacks & Beverages,Biscuits,119,83.38
+P5062,Himalaya Biscuits Pack 6,Snacks & Beverages,Biscuits,398,292.04
+P5063,Aashirvaad Biscuits Pack 7,Snacks & Beverages,Biscuits,128,86.34
+P5064,Pampers Biscuits Pack 8,Snacks & Beverages,Biscuits,201,135.06
+P5065,Surf Excel Atta & Rice Pack 1,Staples,Atta & Rice,1287,1047.64
+P5066,Mother Dairy Atta & Rice Pack 2,Staples,Atta & Rice,1060,900.59
+P5067,Himalaya Atta & Rice Pack 3,Staples,Atta & Rice,463,399.01
+P5068,ITC Atta & Rice Pack 4,Staples,Atta & Rice,741,625.7
+P5069,Britannia Atta & Rice Pack 5,Staples,Atta & Rice,951,833.69
+P5070,Himalaya Atta & Rice Pack 6,Staples,Atta & Rice,219,190.5
+P5071,Britannia Atta & Rice Pack 7,Staples,Atta & Rice,1030,840.72
+P5072,ITC Atta & Rice Pack 8,Staples,Atta & Rice,964,859.28
+P5073,Surf Excel Dals & Pulses Pack 1,Staples,Dals & Pulses,256,219.94
+P5074,Mother Dairy Dals & Pulses Pack 2,Staples,Dals & Pulses,1057,921.93
+P5075,Parle Dals & Pulses Pack 3,Staples,Dals & Pulses,655,532.23
+P5076,Dabur Dals & Pulses Pack 4,Staples,Dals & Pulses,505,456.15
+P5077,ITC Dals & Pulses Pack 5,Staples,Dals & Pulses,405,353.06
+P5078,Dabur Dals & Pulses Pack 6,Staples,Dals & Pulses,1282,1100.95
+P5079,Local Farm Dals & Pulses Pack 7,Staples,Dals & Pulses,691,568.66
+P5080,Surf Excel Dals & Pulses Pack 8,Staples,Dals & Pulses,1375,1136.62
+P5081,Pampers Oils Pack 1,Staples,Oils,445,366.26
+P5082,Fortune Oils Pack 2,Staples,Oils,1327,1159.47
+P5083,Mother Dairy Oils Pack 3,Staples,Oils,254,221.92
+P5084,Fortune Oils Pack 4,Staples,Oils,346,311.41
+P5085,Himalaya Oils Pack 5,Staples,Oils,437,389.66
+P5086,Mother Dairy Skin Care Pack 1,Personal Care,Skin Care,647,397.45
+P5087,Vim Skin Care Pack 2,Personal Care,Skin Care,325,202.11
+P5088,Surf Excel Skin Care Pack 3,Personal Care,Skin Care,210,133.68
+P5089,Patanjali Skin Care Pack 4,Personal Care,Skin Care,898,563.5
+P5090,Himalaya Skin Care Pack 5,Personal Care,Skin Care,779,463.99
+P5091,Fortune Skin Care Pack 6,Personal Care,Skin Care,753,489.69
+P5092,Local Farm Skin Care Pack 7,Personal Care,Skin Care,765,481.54
+P5093,Parle Hair Care Pack 1,Personal Care,Hair Care,277,176.17
+P5094,Britannia Hair Care Pack 2,Personal Care,Hair Care,86,52.01
+P5095,Tata Hair Care Pack 3,Personal Care,Hair Care,138,85.06
+P5096,Fortune Hair Care Pack 4,Personal Care,Hair Care,425,259.04
+P5097,Aashirvaad Hair Care Pack 5,Personal Care,Hair Care,884,531.25
+P5098,Vim Oral Care Pack 1,Personal Care,Oral Care,782,496.16
+P5099,Parle Oral Care Pack 2,Personal Care,Oral Care,715,453.35
+P5100,Surf Excel Oral Care Pack 3,Personal Care,Oral Care,646,392.86
+P5101,Surf Excel Oral Care Pack 4,Personal Care,Oral Care,871,549.01
+P5102,Pampers Oral Care Pack 5,Personal Care,Oral Care,553,357.15
+P5103,Mother Dairy Cleaning Pack 1,Household,Cleaning,351,232.98
+P5104,Amul Cleaning Pack 2,Household,Cleaning,681,478.6
+P5105,Tata Cleaning Pack 3,Household,Cleaning,678,454.03
+P5106,Mother Dairy Cleaning Pack 4,Household,Cleaning,245,164.75
+P5107,ITC Cleaning Pack 5,Household,Cleaning,387,270.79
+P5108,Tata Cleaning Pack 6,Household,Cleaning,622,421.09
+P5109,Nestle Cleaning Pack 7,Household,Cleaning,234,155.66
+P5110,Vim Detergents Pack 1,Household,Detergents,550,388.83
+P5111,Aashirvaad Detergents Pack 2,Household,Detergents,664,432.59
+P5112,Pampers Detergents Pack 3,Household,Detergents,268,192.87
+P5113,Amul Detergents Pack 4,Household,Detergents,434,301.15
+P5114,Mother Dairy Detergents Pack 5,Household,Detergents,624,434.05
+P5115,Aashirvaad Detergents Pack 6,Household,Detergents,493,319.33
+P5116,Tata Detergents Pack 7,Household,Detergents,377,261.69
+P5117,Nestle Paper Goods Pack 1,Household,Paper Goods,100,67.71
+P5118,Dabur Paper Goods Pack 2,Household,Paper Goods,157,103.66
+P5119,Fortune Paper Goods Pack 3,Household,Paper Goods,377,270.93
+P5120,Patanjali Paper Goods Pack 4,Household,Paper Goods,493,326.37
+P5121,Aashirvaad Paper Goods Pack 5,Household,Paper Goods,295,198.34
+P5122,Amul Paper Goods Pack 6,Household,Paper Goods,146,95.24
+P5123,ITC Paper Goods Pack 7,Household,Paper Goods,142,96.81
+P5124,Local Farm Paper Goods Pack 8,Household,Paper Goods,487,334.77
+P5125,Amul Diapers Pack 1,Baby Care,Diapers,385,271.27
+P5126,Tata Diapers Pack 2,Baby Care,Diapers,953,673.34
+P5127,Patanjali Diapers Pack 3,Baby Care,Diapers,239,173.3
+P5128,Nestle Diapers Pack 4,Baby Care,Diapers,1313,931.52
+P5129,Himalaya Diapers Pack 5,Baby Care,Diapers,688,505.19
+P5130,Britannia Diapers Pack 6,Baby Care,Diapers,1424,1050.77
+P5131,Himalaya Diapers Pack 7,Baby Care,Diapers,907,651.42
+P5132,Parle Diapers Pack 8,Baby Care,Diapers,1129,787.91
+P5133,Parle Baby Food Pack 1,Baby Care,Baby Food,516,390.86
+P5134,Local Farm Baby Food Pack 2,Baby Care,Baby Food,520,400.29
+P5135,Parle Baby Food Pack 3,Baby Care,Baby Food,1364,983.38
+P5136,Fortune Baby Food Pack 4,Baby Care,Baby Food,1250,964.69
+P5137,Fortune Baby Food Pack 5,Baby Care,Baby Food,1018,741.24
+P5138,Local Farm Baby Food Pack 6,Baby Care,Baby Food,806,616.93
+P5139,Aashirvaad Baby Food Pack 7,Baby Care,Baby Food,597,433
